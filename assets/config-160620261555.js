@@ -1,0 +1,32 @@
+window.__APP_CONFIG__ = {
+  "loadFromLocalStorage": true,
+  "loadFromGoogleSheets": false,
+  "loadFromMultipleGoogleSheets": true,
+  "loadFromBackend": false,
+  "lazyLoading": false,
+  "lazyLoadLimit": 18,
+  "useIndexedDB": true,
+  "cacheTime": 120,
+  "adminSignTime": 120,
+  "localStorage": "/assets/pull.json",
+  "usersCanSignIn": false,
+  "usersCanUseShoppingCart": true,
+  "usersCanSearch": false,
+  "usersCanBuy": false,
+  "usersCanConsult": true,
+  "usersCanSendMessage": false,
+  "googleSheetsApiKey": "AIzaSyD9yEoRR17TihSnABVC-_VcIVT2dcCydUg",
+  "googleSheetsId": "1O_kEtHXDuQxAvoQnK6t-rG6zP7A3jSdI9yx4SsBSdEI",
+  "googleSheetsConfigId": "1O_kEtHXDuQxAvoQnK6t-rG6zP7A3jSdI9yx4SsBSdEI",
+  "googleSheetsName": "sheet",
+  "googleClientId": "433123137921-qth72v21kjpb3hsg2qphk6j0brfrkohi.apps.googleusercontent.com",
+  "exportLocalFile": true,
+  "maxMessageSize": 3000,
+  "themeDefault": "light",
+  "apiUrl": "https://api-cenit.guillenh.com",
+  "origin": [
+    "https://cenit.guillenh.com",
+    "https://cenitespecias.pages.dev"
+  ],
+  "webTitle": "Cenit Especias"
+}
