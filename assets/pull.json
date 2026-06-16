@@ -1,9 +1,10 @@
 {
   "tablesTree": {
-    "Cereales": "Cereales",
     "Especias": "Especias",
-    "Hierbas": "Hierbas"
+    "Cereales": "Cereales",
+    "Hierbas": "Hierbas",
+    "Test": ""
   },
   "tables": {},
-  "updatedAt": "2026-04-01T19:18:42.943Z"
+  "updatedAt": "2026-06-16T18:15:30.681Z"
 }
