@@ -25,7 +25,6 @@ window.__APP_CONFIG__ = {
   "themeDefault": "light",
   "apiUrl": "https://api-cenit.guillenh.com",
   "origin": [
-    "https://cenit.guillenh.com",
     "https://cenitespecias.pages.dev"
   ],
   "webTitle": "Cenit Especias"
