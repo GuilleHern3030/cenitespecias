@@ -29,4 +29,5 @@ dist-ssr
 instructions.md
 backend.cjs
 assets/pull.json
+assets/pull_old.json
 CNAME

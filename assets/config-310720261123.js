@@ -23,6 +23,9 @@ window.__APP_CONFIG__ = {
   "exportLocalFile": true,
   "maxMessageSize": 3000,
   "themeDefault": "light",
+  "tablesGroups": [
+    "Mayorista"
+  ],
   "apiUrl": "https://api-cenit.guillenh.com",
   "origin": [
     "https://cenitespecias.pages.dev"
