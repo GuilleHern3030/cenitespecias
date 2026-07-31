@@ -1,9 +1,39 @@
 {
-  "tablesTree": {
-    "Especias": "Especias",
-    "Cereales": "Cereales",
-    "Hierbas": "Hierbas"
-  },
-  "tables": {},
-  "updatedAt": "2026-06-15T18:15:30.681Z"
+  "tables": [
+    {
+      "route": ":Cereales",
+      "content": "Cereales",
+      "index": 2
+    },
+    {
+      "route": ":Especias",
+      "content": "Especias",
+      "index": 1
+    },
+    {
+      "route": ":Hierbas",
+      "content": "Hierbas",
+      "index": 3
+    },
+    {
+      "route": "Al_por_mayor:",
+      "minPriceToBuy": 40000
+    },
+    {
+      "route": "Al_por_mayor:Cereales",
+      "content": "CerealesPM",
+      "index": 0
+    },
+    {
+      "route": "Al_por_mayor:Especias",
+      "content": "EspeciasPM",
+      "index": 0
+    },
+    {
+      "route": "Al_por_mayor:Hierbas",
+      "content": "HierbasPM",
+      "index": 0
+    }
+  ],
+  "updatedAt": "2026-07-29T16:22:07.713Z"
 }
