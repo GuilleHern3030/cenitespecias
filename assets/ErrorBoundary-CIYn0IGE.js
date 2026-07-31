@@ -1,1 +1,0 @@
-import{w as e,q as o,N as s}from"./index-DwrjnSu0.js";class c extends e.Component{constructor(r){super(r),this.state={hasError:!1}}static getDerivedStateFromError(r){return{hasError:!0}}componentDidCatch(r,t){console.error("ErrorBoundary:",r,t)}render(){const{hasError:r}=this.state,{to:t="/error"}=this.props;return r?o.jsx(s,{to:t,replace:!0}):this.props.children}}export{c as E};
